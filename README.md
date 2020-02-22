@@ -91,7 +91,8 @@ The project “Emergency locator” is based on the following concepts and it’
 •	Lists all the areas where relief activities are on. The list of locations with address along with what all could be contributed is displayed for user’s reference.  
 •	It gives the details of all important persons and contacts .also location is also specified. It also includes the list of contact details of the important personals and administrative officers so that the issue can be easily reached to the concerned authorities and necessary actions could be taken and someone’s life can be saved.
 
-![HomePage](C:\Projects\EmergencyLocator\Homepage)
+![FlowChart](https://github.com/ThePrakharSrivastava/emergency-locator/blob/master/SC2_Flowchart.png)
+
 
 
 
