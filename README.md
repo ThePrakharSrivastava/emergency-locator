@@ -93,7 +93,11 @@ The project “Emergency locator” is based on the following concepts and it’
 
 ![FlowChart](https://github.com/ThePrakharSrivastava/emergency-locator/blob/master/SC2_Flowchart.png)
 
+![HomePage](https://github.com/ThePrakharSrivastava/emergency-locator/blob/master/SC0_HomePage.png)
 
+![MedicareService](https://github.com/ThePrakharSrivastava/emergency-locator/blob/master/SC1_MedicareService.png)
+
+![MedicareService](https://github.com/ThePrakharSrivastava/emergency-locator/blob/master/SC3_MedicareService.png)
 
 
 
